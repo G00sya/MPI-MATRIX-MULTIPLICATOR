@@ -1,0 +1,16 @@
+# Build artifacts
+/build/
+/build_qtcheck/
+
+# IDE-specific files
+/CMakeLists.txt.user
+/.vs/
+
+# Generated benchmark output
+/benchmark_results.csv
+
+# Generated matrix files
+/data/generated/
+
+# Vendored library embedded git metadata
+/third_party/fmt/.git/
