@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+  <rect width="980" height="520" fill="#ffffff" />
+  <text x="85" y="34" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#1a1f24">Speedup for random 4000x4000 matrices</text>
+  <text x="85" y="58" font-size="14" font-family="Segoe UI, Arial, sans-serif" fill="#59636e">Measurements for 1 to 12 MPI processes, one run per point</text>
+  <line x1="85" y1="430.00" x2="940" y2="430.00" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="435.00" text-anchor="end" font-size="12" fill="#45515c">0</text>
+  <line x1="85" y1="400.83" x2="940" y2="400.83" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="405.83" text-anchor="end" font-size="12" fill="#45515c">1</text>
+  <line x1="85" y1="371.67" x2="940" y2="371.67" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="376.67" text-anchor="end" font-size="12" fill="#45515c">2</text>
+  <line x1="85" y1="342.50" x2="940" y2="342.50" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="347.50" text-anchor="end" font-size="12" fill="#45515c">3</text>
+  <line x1="85" y1="313.33" x2="940" y2="313.33" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="318.33" text-anchor="end" font-size="12" fill="#45515c">4</text>
+  <line x1="85" y1="284.17" x2="940" y2="284.17" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="289.17" text-anchor="end" font-size="12" fill="#45515c">5</text>
+  <line x1="85" y1="255.00" x2="940" y2="255.00" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="260.00" text-anchor="end" font-size="12" fill="#45515c">6</text>
+  <line x1="85" y1="225.83" x2="940" y2="225.83" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="230.83" text-anchor="end" font-size="12" fill="#45515c">7</text>
+  <line x1="85" y1="196.67" x2="940" y2="196.67" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="201.67" text-anchor="end" font-size="12" fill="#45515c">8</text>
+  <line x1="85" y1="167.50" x2="940" y2="167.50" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="172.50" text-anchor="end" font-size="12" fill="#45515c">9</text>
+  <line x1="85" y1="138.33" x2="940" y2="138.33" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="143.33" text-anchor="end" font-size="12" fill="#45515c">10</text>
+  <line x1="85" y1="109.17" x2="940" y2="109.17" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="114.17" text-anchor="end" font-size="12" fill="#45515c">11</text>
+  <line x1="85" y1="80.00" x2="940" y2="80.00" stroke="#d9e0e7" stroke-width="1" />
+  <text x="73" y="85.00" text-anchor="end" font-size="12" fill="#45515c">12</text>
+  <line x1="85" y1="80" x2="85" y2="430" stroke="#1a1f24" stroke-width="1.5" />
+  <line x1="85" y1="430" x2="940" y2="430" stroke="#1a1f24" stroke-width="1.5" />
+  <line x1="85.00" y1="430" x2="85.00" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="85.00" y="454" text-anchor="middle" font-size="11" fill="#45515c">1</text>
+<line x1="162.73" y1="430" x2="162.73" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="162.73" y="454" text-anchor="middle" font-size="11" fill="#45515c">2</text>
+<line x1="240.45" y1="430" x2="240.45" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="240.45" y="454" text-anchor="middle" font-size="11" fill="#45515c">3</text>
+<line x1="318.18" y1="430" x2="318.18" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="318.18" y="454" text-anchor="middle" font-size="11" fill="#45515c">4</text>
+<line x1="395.91" y1="430" x2="395.91" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="395.91" y="454" text-anchor="middle" font-size="11" fill="#45515c">5</text>
+<line x1="473.64" y1="430" x2="473.64" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="473.64" y="454" text-anchor="middle" font-size="11" fill="#45515c">6</text>
+<line x1="551.36" y1="430" x2="551.36" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="551.36" y="454" text-anchor="middle" font-size="11" fill="#45515c">7</text>
+<line x1="629.09" y1="430" x2="629.09" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="629.09" y="454" text-anchor="middle" font-size="11" fill="#45515c">8</text>
+<line x1="706.82" y1="430" x2="706.82" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="706.82" y="454" text-anchor="middle" font-size="11" fill="#45515c">9</text>
+<line x1="784.55" y1="430" x2="784.55" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="784.55" y="454" text-anchor="middle" font-size="11" fill="#45515c">10</text>
+<line x1="862.27" y1="430" x2="862.27" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="862.27" y="454" text-anchor="middle" font-size="11" fill="#45515c">11</text>
+<line x1="940.00" y1="430" x2="940.00" y2="436" stroke="#1a1f24" stroke-width="1.5" />
+<text x="940.00" y="454" text-anchor="middle" font-size="11" fill="#45515c">12</text>
+  <polyline points="85.00,400.83 162.73,371.67 240.45,342.50 318.18,313.33 395.91,284.17 473.64,255.00 551.36,225.83 629.09,196.67 706.82,167.50 784.55,138.33 862.27,109.17 940.00,80.00" fill="none" stroke="#97a3af" stroke-width="2.5" stroke-dasharray="8 6" />
+  <polyline points="85.00,400.83 162.73,378.90 240.45,367.70 318.18,360.55 395.91,348.01 473.64,343.05 551.36,336.70 629.09,331.85 706.82,326.55 784.55,326.02 862.27,328.65 940.00,328.82" fill="none" stroke="#0b84f3" stroke-width="3.5" />
+  <circle cx="85.00" cy="400.83" r="4.8" fill="#0b84f3" />
+<text x="85.00" y="390.83" text-anchor="middle" font-size="10" fill="#0b4a8b">1.000</text>
+<circle cx="162.73" cy="378.90" r="4.8" fill="#0b84f3" />
+<text x="162.73" y="368.90" text-anchor="middle" font-size="10" fill="#0b4a8b">1.752</text>
+<circle cx="240.45" cy="367.70" r="4.8" fill="#0b84f3" />
+<text x="240.45" y="357.70" text-anchor="middle" font-size="10" fill="#0b4a8b">2.136</text>
+<circle cx="318.18" cy="360.55" r="4.8" fill="#0b84f3" />
+<text x="318.18" y="350.55" text-anchor="middle" font-size="10" fill="#0b4a8b">2.381</text>
+<circle cx="395.91" cy="348.01" r="4.8" fill="#0b84f3" />
+<text x="395.91" y="338.01" text-anchor="middle" font-size="10" fill="#0b4a8b">2.811</text>
+<circle cx="473.64" cy="343.05" r="4.8" fill="#0b84f3" />
+<text x="473.64" y="333.05" text-anchor="middle" font-size="10" fill="#0b4a8b">2.981</text>
+<circle cx="551.36" cy="336.70" r="4.8" fill="#0b84f3" />
+<text x="551.36" y="326.70" text-anchor="middle" font-size="10" fill="#0b4a8b">3.199</text>
+<circle cx="629.09" cy="331.85" r="4.8" fill="#0b84f3" />
+<text x="629.09" y="321.85" text-anchor="middle" font-size="10" fill="#0b4a8b">3.365</text>
+<circle cx="706.82" cy="326.55" r="4.8" fill="#0b84f3" />
+<text x="706.82" y="316.55" text-anchor="middle" font-size="10" fill="#0b4a8b">3.547</text>
+<circle cx="784.55" cy="326.02" r="4.8" fill="#0b84f3" />
+<text x="784.55" y="316.02" text-anchor="middle" font-size="10" fill="#0b4a8b">3.565</text>
+<circle cx="862.27" cy="328.65" r="4.8" fill="#0b84f3" />
+<text x="862.27" y="318.65" text-anchor="middle" font-size="10" fill="#0b4a8b">3.475</text>
+<circle cx="940.00" cy="328.82" r="4.8" fill="#0b84f3" />
+<text x="940.00" y="318.82" text-anchor="middle" font-size="10" fill="#0b4a8b">3.469</text>
+  <text x="512.5" y="492" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#1a1f24">Number of MPI processes</text>
+  <g transform="translate(28, 255) rotate(-90)">
+    <text text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#1a1f24">Speedup</text>
+  </g>
+  <g transform="translate(770, 28)">
+    <line x1="0" y1="0" x2="34" y2="0" stroke="#0b84f3" stroke-width="3.5" />
+    <text x="44" y="5" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#1a1f24">Measured</text>
+    <line x1="0" y1="24" x2="34" y2="24" stroke="#97a3af" stroke-width="2.5" stroke-dasharray="8 6" />
+    <text x="44" y="29" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#1a1f24">Ideal linear</text>
+  </g>
+</svg>
